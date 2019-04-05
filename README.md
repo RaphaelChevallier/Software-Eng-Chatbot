@@ -67,6 +67,11 @@ user@server:~$ python3 bartenderChatbot.py &
 # Demo Output
 ![demo output](/demoImages/demo.png)
 
+Limitations:
+Can't remember previous conversations so can't string very well certain sentences
+The sentiment analysis I get is very basic of positive, negative, or neutral
+Spell check isn't perfect
+
 # Features Provided by chatbot
 ### 1.Great GUI - with the use of Facebook Messenger. Allows for a wide range of users and comfortability. Everyone knows how to use Messenger and is reliable.
 ![Facebook Messenger Logo](/demoImages/facebookLogo.png)
