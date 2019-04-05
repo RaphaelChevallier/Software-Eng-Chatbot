@@ -57,9 +57,14 @@ user@server:~$ python3 bartenderChatbot.py &
 * Great GUI - with the use of Facebook Messenger. Allows for a wide range of users and comfortability. Everyone knows how to use Messenger and is reliable.
 ![Facebook Messenger Logo](/demoImages/facebookLogo.png =250x250)
 * Adding extra topics to the bot - A bartender is meant to be able to provide small talk which is what I do and add. I add a weather topic, ordering topic, tips of places around town topic, and asking how the bot is doing.
-![Facebook Messenger Logo](/demoImages/extraTopic.png)
-* I have 5+ phrases for when the bot doesn't completely understand what the user wants to provide a smoothness.
+![extra topic picture](/demoImages/extraTopic.png)
+* I have 5+ phrases for when the bot doesn't completely understand what the user wants to provide a smoothness. It is random so it was hard for me to get more of 5 different ones in a row so heres 4 in the image.
+![5+ phrases for errors of misunderstanding](/demoImages/findingErrors.png)
 * My bot can do spell checking and still understand what the user intent is. With LUIS I can train it to surpass spelling mistakes as long as they are not too unrecognizable.
+![spell check](/demoImages/spellCheck.png)
 * My chatbot recognizes synonyms as the same entity such as drink, booze, alcohol.
+![synonyms](/demoImages/synonyms.png)
 * My bot can detect the entities of the sentences the user utters to the bot. This does not display in the chat however but rather the console of the server.
+![sentiment and entity](/demoImages/findingEntity&Sentiment.png)
 * Lastly my chatbot can recognize sentiments as well from users. This is also only on the server console. This is basic however as it can only detect "positive", "negative", or "neutral" as well as provide a score of confidence on its decision.
+![sentiment and entity](/demoImages/findingEntity&Sentiment.png)
