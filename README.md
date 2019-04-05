@@ -52,6 +52,8 @@ Once installed, run flask and node as background processes.
 user@server:~$ nodemon webhook.js &
 user@server:~$ python3 bartenderChatbot.py &
 ```
+# Demo Output
+![demo output](/demoImages/demo.png)
 
 # Features Provided by chatbot
 ### Great GUI - with the use of Facebook Messenger. Allows for a wide range of users and comfortability. Everyone knows how to use Messenger and is reliable.
