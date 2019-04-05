@@ -52,6 +52,18 @@ Once installed, run flask and node as background processes.
 user@server:~$ nodemon webhook.js &
 user@server:~$ python3 bartenderChatbot.py &
 ```
+# Level 0 DFD
+1. User types into messenger page
+2. Chatbot system understands and produces a response
+3. Repeat
+
+# Level 1 DFD
+1. User goes to messenger and types intent
+2. Node.js file takes input and gives clean json to python file
+3. Python file calls NLP engine LUIS and understands intent
+4. Python file formulates response based off understanding
+5. Sends response to user through clean Node.js file again
+
 # Demo Output
 ![demo output](/demoImages/demo.png)
 
