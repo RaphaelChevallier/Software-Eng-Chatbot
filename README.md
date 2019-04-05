@@ -60,4 +60,4 @@ user@server:~$ python3 bartenderChatbot.py &
 * My bot can do spell checking and still understand what the user intent is. With LUIS I can train it to surpass spelling mistakes as long as they are not too unrecognizable.
 * My chatbot recognizes synonyms as the same entity such as drink, booze, alcohol.
 * My bot can detect the entities of the sentences the user utters to the bot. This does not display in the chat however but rather the console of the server.
-* Lastly my chatbot can recognize sentiments as well from users. This is basic however as it can only detect "positive", "negative", or "neutral" as well as provide a score of confidence on its decision.
+* Lastly my chatbot can recognize sentiments as well from users. This is also only on the server console. This is basic however as it can only detect "positive", "negative", or "neutral" as well as provide a score of confidence on its decision.
