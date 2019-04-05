@@ -27,7 +27,6 @@ and message the page. The chatbot will respond back to you and will be fully fun
 ## Potential Improvements
 Potential improvements to the system would be to implement a sort of memory system. It would be good to have the chatbot "remember" what it talks about to more smoothly follow a conversation
 
-
 # Install Chatbot to own server
 ## Prerequisites
 * NodeJS - NPM
@@ -71,6 +70,13 @@ Limitations:
 * Can't remember previous conversations so can't string very well certain sentences
 * The sentiment analysis I get is very basic of positive, negative, or neutral
 * Spell check isn't perfect
+
+# Features that can be extracted as an API
+* The analysis of sentiment can be used as an API for other bots
+* Entity recognition can also be used for other bartender chatbots
+* The spell check can
+* The NLP engine can be used for training
+* The weather topic can be used and shared to get weather in sourroundings
 
 # Features Provided by chatbot
 ### 1.Great GUI - with the use of Facebook Messenger. Allows for a wide range of users and comfortability. Everyone knows how to use Messenger and is reliable.
