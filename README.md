@@ -55,7 +55,7 @@ user@server:~$ python3 bartenderChatbot.py &
 
 # Features Provided by chatbot
 ### Great GUI - with the use of Facebook Messenger. Allows for a wide range of users and comfortability. Everyone knows how to use Messenger and is reliable.
-![Facebook Messenger Logo](/demoImages/facebookLogo.png =100x100)
+![Facebook Messenger Logo](/demoImages/facebookLogo.png)
 ### Adding extra topics to the bot - A bartender is meant to be able to provide small talk which is what I do and add. I add a weather topic, ordering topic, tips of places around town topic, and asking how the bot is doing.
 ![extra topic picture](/demoImages/extraTopic.png)
 ### I have 5+ phrases for when the bot doesn't completely understand what the user wants to provide a smoothness. It is random so it was hard for me to get more of 5 different ones in a row so heres 4 in the image.
